@@ -1,5 +1,8 @@
 _repo: The-Wire-Devils_52084
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52084-h/images/cover.jpg
 creator:
   author:
     agent_name: Packard, Frank L. (Frank Lucius)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/557
     wikipedia: http://en.wikipedia.org/wiki/Frank_L._Packard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52084#The-Wire-Devils
 gutenberg_issued: '2016-05-16'
 gutenberg_type: Text
 identifiers:
