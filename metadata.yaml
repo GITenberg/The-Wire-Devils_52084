@@ -1,0 +1,27 @@
+_repo: The-Wire-Devils_52084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Packard, Frank L. (Frank Lucius)
+    birthdate: 1877
+    deathdate: 1942
+    gutenberg_agent_id: '557'
+    url: http://www.gutenberg.org/2009/agents/557
+    wikipedia: http://en.wikipedia.org/wiki/Frank_L._Packard
+description: ''
+gutenberg_issued: '2016-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Railroad stories'
+- !lcsh 'Canadian fiction -- 20th century'
+- GITenberg
+title: The Wire Devils
+url: http://www.gutenberg.org/ebooks/52084
